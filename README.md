@@ -1,31 +1,20 @@
-# 📌 Portfolio Website
+# 📌 Habib Muzakki Piliang - Portfolio Website
 
-Selamat datang di repositori GitHub Pages saya! 🎉
+Selamat datang di **Website Portofolio** saya! Saya seorang penulis dan blogger yang aktif berbagi gagasan di berbagai platform. Jangan ragu untuk mengunjungi media sosial dan blog saya untuk melihat karya-karya saya lebih lanjut. 🚀
 
-## 🌟 Tentang Website Ini
-Website ini adalah portofolio pribadi saya yang menampilkan proyek, pengalaman, dan keterampilan saya dalam berbagai bidang. Dibangun menggunakan **HTML, CSS, dan JavaScript**, serta di-hosting melalui **GitHub Pages**.
+## 🌐 Kunjungi Website Saya
 
-## 🚀 Fitur Utama
-- 🔹 Halaman Profil & Biodata
-- 🔹 Daftar Proyek & Portofolio
-- 🔹 Blog Pribadi
-- 🔹 Kontak & Media Sosial
+🔗 **GitHub Pages**: [habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io)
 
-## 🔧 Cara Menggunakan
-Jika Anda ingin menjalankan proyek ini secara lokal, ikuti langkah berikut:
+## 📱 Media Sosial
 
-1. **Clone repositori ini**
-   ```bash
-   git clone https://github.com/username/portfolio.git
-   ```
-2. **Buka file `index.html` di browser**
+- 📸 **Instagram**: [@habibmuzakkipiliang](https://www.instagram.com/habib_muzakki_piliang/)
+- 🎵 **TikTok**: [@habibmuzakkipiliang](https://www.tiktok.com/@habib_muzakki_piliang22)
+- 🧵 **Threads**: [@habibmuzakkipiliang](https://www.threads.net/@habib_muzakki_piliang)
 
-Atau kunjungi website saya di **[username.github.io](https://username.github.io/)** untuk melihatnya langsung!
+## ✍️ Blog dan Tulisan Saya
 
-## 📬 Kontak
-Jika ingin menghubungi saya, silakan melalui:
-- ✉️ Email: example@email.com
-- 🔗 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- 🐦 Twitter: [@username](https://twitter.com/username)
+- 📝 **Blogger (Blogspot)**: [Habib Muzakki Piliang](https://habibmuzakkipiliang.blogspot.com/)
+- 📰 **Kompasiana**: [Habib Muzakki Piliang](https://www.kompasiana.com/habibmuzakki3305)
 
-Terima kasih telah mengunjungi repositori ini! 😊
+Jangan lupa untuk mengikuti saya di media sosial dan membaca blog saya untuk mendapatkan konten terbaru. Terima kasih! 😊
