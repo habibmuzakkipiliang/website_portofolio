@@ -4,7 +4,7 @@ Selamat datang di **Website Portofolio** saya! Saya seorang penulis dan blogger 
 
 ## 🌐 Kunjungi Website Saya
 
-🔗 **GitHub Pages**: [habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io)
+🔗 **GitHub Pages**: [habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_pertama/)
 
 ## 📱 Media Sosial
 
