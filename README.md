@@ -8,9 +8,9 @@ Selamat datang di **Website Portofolio** saya! Saya seorang penulis dan blogger 
 
 ## 📱 Media Sosial
 
-- 📸 **Instagram**: [@habibmuzakkipiliang](https://www.instagram.com/habib_muzakki_piliang/)
-- 🎵 **TikTok**: [@habibmuzakkipiliang](https://www.tiktok.com/@habib_muzakki_piliang22)
-- 🧵 **Threads**: [@habibmuzakkipiliang](https://www.threads.net/@habib_muzakki_piliang)
+- 📸 **Instagram**: [@habib_muzakki_piliang](https://www.instagram.com/habib_muzakki_piliang/)
+- 🎵 **TikTok**: [@habib_muzakki_piliang22](https://www.tiktok.com/@habib_muzakki_piliang22)
+- 🧵 **Threads**: [@habib_muzakki_piliang](https://www.threads.net/@habib_muzakki_piliang)
 
 ## ✍️ Blog dan Tulisan Saya
 
