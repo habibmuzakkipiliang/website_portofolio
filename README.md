@@ -12,6 +12,8 @@ Selamat datang di repositori resmi dokumentasi karya dan aktivitas Habib Muzakki
 - **Sekolah**: MAN 2 Kota Serang
 - **Kelas**: 11 Agama (Angkatan ke-34, Alvradesta)
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
+- **Kompasiana**: 
+[www.kompasiana.com/habibmuzakki3305] (https://www.kompasiana.com/habibmuzakki3305)
 
 ---
 
@@ -60,7 +62,9 @@ Repositori ini bersifat terbuka untuk kontribusi. Jika Anda memiliki informasi t
 Untuk pertanyaan atau informasi lebih lanjut, Anda dapat menghubungi melalui:
 
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
-- **Email**: [Alamat email jika tersedia]
+- **Kompasiana**: 
+[www.kompasiana.com/habibmuzakki3305] (https://www.kompasiana.com/habibmuzakki3305)
+
 
 ---
 
