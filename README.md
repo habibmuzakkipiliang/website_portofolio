@@ -48,7 +48,9 @@ Habib juga menulis artikel edukatif dan sejarah, seperti:
 
 - **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/04/cyber-security.html))
 - **Sejarah Makam Jerman di Megamendung**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
-- **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/huruf-yunani-dan-kiril.html))
+- **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com - Yunani](https://habibmuzakkipiliang.blogspot.com/2024/10/fakta-dan-sejarah-lengkap-huruf-yunani.html?m=1))
+([habibmuzakkipiliang.blogspot.com - Kiril Rusia](https://habibmuzakkipiliang.blogspot.com/2024/10/10-fakta-huruf-kiril-aksara-yang-unik.html?m=1
+))
 - **Sub Etnis Tionghoa di Indonesia**: Membahas berbagai subgrup etnis Tionghoa yang ada di Indonesia. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/08/sub-etnis-tionghoa-di-indonesia.html))
 - **Sejarah Republik Lanfang**: Menjelaskan sejarah republik pertama di Asia yang didirikan oleh komunitas Tionghoa di Kalimantan Barat. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/09/sejarah-republik-lanfang.html))
 
