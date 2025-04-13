@@ -34,8 +34,8 @@ Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan 
 
 - **MAN2Fest 2024**: Mengulas suasana meriah acara tahunan yang menampilkan konser musik, tari daerah, flashmob, dan teater. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
 - **Arena Boarding Gembira (ABG) tahun 2024: Menceritakan berlangsungnya Acara Pagelaran Seni tahunan yang meriah hingga larut malam
-([habibmuzakkipiliang.blogspot.com])
-(https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-saya-selama-acara.html?m=1))
+([habibmuzakkipiliang.blogspot.com](
+https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-saya-selama-acara.html?m=1))
 - **Pelepasan Kelas 12 (Avgrasena 2024)**: Menceritakan proses gladi resik dan penampilan paduan suara di Auditorium UNSERA. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/cerita-pengalaman-saya-selama-gladi-dan.html))
 - **MASTASA 2024**: Berperan sebagai panitia dokumentasi dalam kegiatan Masa Ta'aruf Santri. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-menjadi.html))
 - **MATSAMA 2023**: Mengikuti kegiatan orientasi siswa baru dengan berbagai aktivitas pengenalan sekolah. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-matsama.html))
