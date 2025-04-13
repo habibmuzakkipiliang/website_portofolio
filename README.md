@@ -46,7 +46,7 @@ https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-saya-selama-a
 
 Habib juga menulis artikel edukatif dan sejarah, seperti:
 
-- **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/04/cyber-security.html))
+- **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/03/cyber-security-pengertian-tujuan.html?m=1))
 - **Sejarah Makam Jerman di Megamendung**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
 - **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com - Huruf Yunani](https://habibmuzakkipiliang.blogspot.com/2024/10/fakta-dan-sejarah-lengkap-huruf-yunani.html?m=1))
 ([habibmuzakkipiliang.blogspot.com - Huruf Kiril Rusia](https://habibmuzakkipiliang.blogspot.com/2024/10/10-fakta-huruf-kiril-aksara-yang-unik.html?m=1
