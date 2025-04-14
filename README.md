@@ -46,8 +46,10 @@ https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-saya-selama-a
 
 Habib juga menulis artikel edukatif dan sejarah, seperti:
 
-- **Acara ABG (Arena Boarding Gembira)**: Menjelaskan acara Pagelaran Seni tahunan yang diselenggarakan oleh Organisasi Pelajar Boarding School (OPBS) Kelas 11 Boarding di MAN 2 Kota Serang. ([habibmuzakkipiliang.blogspot.com]) (https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-abg-arena-boarding.html)
-- **Acara MAN2Fest**: Menjelaskan Acara tahunan yang diadakan oleh MAN 2 Kota Serang untuk memperingati ulang tahun sekolah tersebut. ([habibmuzakkipiliang.blogspot.com]) (https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html)
+- **Acara ABG (Arena Boarding Gembira)**: Menjelaskan acara Pagelaran Seni tahunan yang diselenggarakan oleh Organisasi Pelajar Boarding School (OPBS) Kelas 11 Boarding di MAN 2 Kota Serang. 
+([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-abg-arena-boarding.html))
+- **Acara MAN2Fest**: Menjelaskan Acara tahunan yang diadakan oleh MAN 2 Kota Serang untuk memperingati ulang tahun sekolah tersebut. 
+([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
 - **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/03/cyber-security-pengertian-tujuan.html?m=1))
 - **Sejarah Makam Jerman di Megamendung**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
 - **Sejarah Mausoleum Van Motman di Bogor**: Menjelaskan sejarah awal mula pemakaman ini dan kaitannya dengan anggota keluarga Van Motman. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-dan-kompleksitas-mausoleum-van.html))
