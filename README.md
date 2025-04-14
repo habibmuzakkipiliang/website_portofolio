@@ -48,8 +48,7 @@ Habib juga menulis artikel edukatif dan sejarah, seperti:
 
 - **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/03/cyber-security-pengertian-tujuan.html?m=1))
 - **Sejarah Makam Jerman di Megamendung**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
-- **Sejarah Makam Mausoleum Van Motman di Bogor**: Menjelaskan sejarah awal mula pemakaman itu dan anggota keluarga Van Motman 
-([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-dan-kompleksitas-mausoleum-van.html))
+- **Sejarah Makam Mausoleum Van Motman di Bogor**: Menjelaskan sejarah awal mula pemakaman ini dan kaitannya dengan anggota keluarga Van Motman. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-dan-kompleksitas-mausoleum-van.html))
 - **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com - Huruf Yunani](https://habibmuzakkipiliang.blogspot.com/2024/10/fakta-dan-sejarah-lengkap-huruf-yunani.html?m=1))
 ([habibmuzakkipiliang.blogspot.com - Huruf Kiril Rusia](https://habibmuzakkipiliang.blogspot.com/2024/10/10-fakta-huruf-kiril-aksara-yang-unik.html?m=1
 ))
