@@ -32,16 +32,16 @@ https://www.kompasiana.com/habibmuzakki3305
 
 Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan sekolah, termasuk:
 
-- **MAN2Fest 2024**: Mengulas suasana meriah acara besar tahunan yang menampilkan konser musik, tari daerah, flashmob, dan teater. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
-- **Arena Boarding Gembira (ABG) tahun 2024**: Menceritakan berlangsungnya Acara Besar Pagelaran Seni tahunan yang meriah hingga larut malam.
+- **MAN2Fest 2024 di MAN 2 KOTA SERANG**: Mengulas suasana meriah acara besar tahunan yang menampilkan konser musik, tari daerah, flashmob, dan teater. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
+- **Arena Boarding Gembira (ABG) tahun 2024 di MAN 2 KOTA SERANG**: Menceritakan berlangsungnya Acara Besar Pagelaran Seni tahunan yang meriah hingga larut malam.
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-saya-selama-acara.html?m=1))
-- **Study Tour Kelas 9 SMP**: Menceritakan serunya perjalanan selama Study Tour ke Malang-Bromo-Jogja selama kelas 9 SMPIT AL-IZZAH SERANG. 
+- **Study Tour Kelas 9 SMPIT AL-IZZAH SERANG**: Menceritakan serunya perjalanan selama Study Tour ke Malang-Bromo-Jogja selama kelas 9 SMPIT AL-IZZAH SERANG. 
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-rabu-8-februari-2023.html))
 - **LKS MAN 2 KOTA SERANG TAHUN 2023**: Menceritakan pengalaman dia selama mengikuti LKS di sekolah tersebut. 
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-jumat-8-september-2023.html))
 - **Pelepasan Kelas 12 (Avgrasena 2024)**: Menceritakan proses gladi resik dan penampilan paduan suara di Auditorium UNSERA. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/cerita-pengalaman-saya-selama-gladi-dan.html))
-- **MASTASA 2024**: Berperan sebagai panitia dokumentasi dalam kegiatan Masa Ta'aruf Santri. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-menjadi.html))
-- **MATSAMA 2023**: Mengikuti kegiatan orientasi siswa baru dengan berbagai aktivitas pengenalan sekolah. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-matsama.html))
+- **MASTASA 2024 di MAN 2 KOTA SERANG**: Berperan sebagai panitia dokumentasi dalam kegiatan Masa Ta'aruf Santri. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-menjadi.html))
+- **MATSAMA 2023 di MAN 2 KOTA SERANG**: Mengikuti kegiatan orientasi siswa baru dengan berbagai aktivitas pengenalan sekolah. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-matsama.html))
 - **ABG Folksong 2024**: Terlibat dalam latihan dan penampilan musik dalam acara Arena Boarding Gembira. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-selama-gladi-bersih.html))
 - **Awal Ramadhan 2024**: Menyampaikan pengalaman pribadi dalam menyambut bulan suci Ramadhan di asrama. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-senin-18-maret-2024.html))
 
