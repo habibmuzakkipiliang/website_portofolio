@@ -32,18 +32,18 @@ https://www.kompasiana.com/habibmuzakki3305
 
 Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan sekolah, termasuk:
 
-- **MAN2Fest 2024 di MAN 2 KOTA SERANG**: Mengulas suasana meriah acara besar tahunan yang menampilkan konser musik, tari daerah, flashmob, dan teater. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
-- **Arena Boarding Gembira (ABG) tahun 2024 di MAN 2 KOTA SERANG**: Menceritakan berlangsungnya Acara Besar Pagelaran Seni tahunan yang meriah hingga larut malam.
+- **MAN2Fest 2024**: Mengulas suasana meriah acara besar tahunan yang menampilkan konser musik, tari daerah, flashmob, dan teater di MAN 2 KOTA SERANG. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
+- **Arena Boarding Gembira (ABG) 2024**: Menceritakan berlangsungnya Acara Besar Pagelaran Seni tahunan yang meriah hingga larut malam di MAN 2 KOTA SERANg.
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-saya-selama-acara.html?m=1))
-- **Study Tour Kelas 9 SMPIT AL-IZZAH SERANG**: Menceritakan serunya perjalanan selama Study Tour ke Malang-Bromo-Jogja selama kelas 9 SMPIT AL-IZZAH SERANG. 
+- **Study Tour Kelas 9 SMP**: Menceritakan serunya perjalanan selama Study Tour ke Malang-Bromo-Jogja selama kelas 9 SMPIT AL-IZZAH SERANG. 
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-rabu-8-februari-2023.html))
-- **LKS MAN 2 KOTA SERANG TAHUN 2023**: Menceritakan pengalaman dia selama mengikuti LKS di sekolah tersebut. 
+- **LKS 2023**: Menceritakan pengalaman dia selama mengikuti LKS di MAN 2 KOTA SERANG. 
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-jumat-8-september-2023.html))
 - **Pelepasan Kelas 12 (Avgrasena 2024)**: Menceritakan proses gladi resik dan penampilan paduan suara di Auditorium UNSERA. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/cerita-pengalaman-saya-selama-gladi-dan.html))
-- **MASTASA 2024 di MAN 2 KOTA SERANG**: Berperan sebagai panitia dokumentasi dalam kegiatan Masa Ta'aruf Santri. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-menjadi.html))
-- **MATSAMA 2023 di MAN 2 KOTA SERANG**: Mengikuti kegiatan orientasi siswa baru dengan berbagai aktivitas pengenalan sekolah. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-matsama.html))
-- **ABG Folksong 2024**: Terlibat dalam latihan dan penampilan musik dalam acara Arena Boarding Gembira. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-selama-gladi-bersih.html))
-- **Awal Ramadhan 2024**: Menyampaikan pengalaman pribadi dalam menyambut bulan suci Ramadhan di asrama. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-senin-18-maret-2024.html))
+- **MASTASA 2024**: Berperan sebagai panitia dokumentasi dalam kegiatan Masa Ta'aruf Santri di MAN 2 KOTA SERANG. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-menjadi.html))
+- **MATSAMA 2023**: Mengikuti kegiatan orientasi siswa baru dengan berbagai aktivitas pengenalan sekolah MAN 2 KOTA SERANG. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-matsama.html))
+- **ABG Folksong 2024**: Terlibat dalam latihan dan penampilan musik dalam acara Arena Boarding Gembira di MAN 2 KOTA SERANg. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-selama-gladi-bersih.html))
+- **Awal Ramadhan 2024**: Menyampaikan pengalaman pribadi dalam menyambut bulan suci Ramadhan di asrama MAN 2 KOTA. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-senin-18-maret-2024.html))
 
 ### 🧠 Edukasi & Sejarah
 
@@ -54,8 +54,9 @@ Habib juga menulis artikel edukatif dan sejarah, seperti:
 - **Acara MAN2Fest**: Menjelaskan Acara tahunan yang diadakan oleh MAN 2 Kota Serang untuk memperingati ulang tahun sekolah tersebut. 
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
 - **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/03/cyber-security-pengertian-tujuan.html?m=1))
-- **Sejarah Makam Jerman di Megamendung**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
+- **Sejarah Makam Jerman di Megamendung Bogor**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
 - **Sejarah Mausoleum Van Motman di Bogor**: Menjelaskan sejarah awal mula pemakaman ini dan kaitannya dengan anggota keluarga Van Motman. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-dan-kompleksitas-mausoleum-van.html))
+- **Sejarah Hagia Sophia dan perkembangannya**: Menjelaskan sejarah perkembangan dan perubahan dari Hagia Sophia dari Gereja hingga Masjid seperti saat ini. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/rekonstruksi-dan-sejarah-hagia-sophia.html))
 - **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com - Huruf Yunani](https://habibmuzakkipiliang.blogspot.com/2024/10/fakta-dan-sejarah-lengkap-huruf-yunani.html?m=1))
 ([habibmuzakkipiliang.blogspot.com - Huruf Kiril Rusia](https://habibmuzakkipiliang.blogspot.com/2024/10/10-fakta-huruf-kiril-aksara-yang-unik.html?m=1
 ))
