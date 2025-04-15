@@ -1,10 +1,10 @@
-# 📘 Habib Muzakki Piliang – Dokumentasi Karya dan Aktivitas
+# **📘 Habib Muzakki Piliang – Dokumentasi Karya Digital dan Aktivitas**
 
 Selamat datang di repositori resmi dokumentasi karya dan aktivitas Habib Muzakki Piliang, seorang pelajar aktif dan kreatif dari MAN 2 Kota Serang. Repositori ini bertujuan untuk mengarsipkan pengalaman, kontribusi, dan karya tulis Habib dalam berbagai kegiatan sekolah, organisasi, dan penulisan blog.
 
 ---
 
-## 👤 Profil Singkat
+## **👤 Profil Singkat**
 
 - **Nama**: Habib Muzakki Piliang
 - **Asal**: Minangkabau, Sumatera Barat
@@ -17,7 +17,7 @@ https://www.kompasiana.com/habibmuzakki3305
 
 ---
 
-## 🔗 Media Sosial Resmi
+## **🔗 Media Sosial Resmi**
 
 - **Linktree**: [linktr.ee/habib_muzakki_piliang](https://linktr.ee/habib_muzakki_piliang)
 - **Instagram**: [@habib_muzakki_piliang](https://www.instagram.com/habib_muzakki_piliang)
@@ -26,9 +26,9 @@ https://www.kompasiana.com/habibmuzakki3305
 
 ---
 
-## 📝 Kategori Dokumentasi
+## **📝 Kategori Dokumentasi**
 
-### 📚 Cerita & Pengalaman
+### **📚 Cerita & Pengalaman**
 
 Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan sekolah, termasuk:
 
@@ -45,7 +45,7 @@ Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan 
 - **ABG Folksong 2024**: Terlibat dalam latihan dan penampilan musik dalam acara Arena Boarding Gembira di MAN 2 KOTA SERANg. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-selama-gladi-bersih.html))
 - **Awal Ramadhan 2024**: Menyampaikan pengalaman pribadi dalam menyambut bulan suci Ramadhan di asrama MAN 2 KOTA. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-senin-18-maret-2024.html))
 
-### 🧠 Edukasi & Sejarah
+### **🧠 Edukasi & Sejarah**
 
 Habib juga menulis artikel edukatif dan sejarah, seperti:
 
@@ -57,8 +57,7 @@ Habib juga menulis artikel edukatif dan sejarah, seperti:
 - **Sejarah Makam Jerman di Megamendung Bogor**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
 - **Sejarah Mausoleum Van Motman di Bogor**: Menjelaskan sejarah awal mula pemakaman ini dan kaitannya dengan anggota keluarga Van Motman. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-dan-kompleksitas-mausoleum-van.html))
 - **Sejarah Hagia Sophia dan perkembangannya**: Menjelaskan sejarah perkembangan dan perubahan dari Hagia Sophia dari Gereja hingga Masjid seperti saat ini. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/rekonstruksi-dan-sejarah-hagia-sophia.html))
-- **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com - Huruf Yunani](https://habibmuzakkipiliang.blogspot.com/2024/10/fakta-dan-sejarah-lengkap-huruf-yunani.html?m=1)) 
-<br>
+- **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com - Huruf Yunani](https://habibmuzakkipiliang.blogspot.com/2024/10/fakta-dan-sejarah-lengkap-huruf-yunani.html?m=1))<br>
 ([habibmuzakkipiliang.blogspot.com - Huruf Kiril Rusia](https://habibmuzakkipiliang.blogspot.com/2024/10/10-fakta-huruf-kiril-aksara-yang-unik.html?m=1
 ))
 - **Sub Etnis Tionghoa di Indonesia**: Membahas berbagai subgrup etnis Tionghoa yang ada di Indonesia. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/09/sub-etnis-tionghoa-di-indonesia.html?m=1))
@@ -66,13 +65,13 @@ Habib juga menulis artikel edukatif dan sejarah, seperti:
 
 ---
 
-## 📣 Kontribusi
+## **📣 Kontribusi**
 
 Repositori ini bersifat terbuka untuk kontribusi. Jika Anda memiliki informasi tambahan, koreksi, atau ingin menambahkan dokumentasi terkait aktivitas Habib Muzakki Piliang, silakan ajukan pull request atau buka issue.
 
 ---
 
-## 📬 Kontak
+## **📬 Kontak**
 
 Untuk pertanyaan atau informasi lebih lanjut, Anda dapat menghubungi melalui:
 
@@ -83,6 +82,6 @@ https://www.kompasiana.com/habibmuzakki3305
 
 ---
 
-## 📄 Lisensi
+## **📄 Lisensi**
 
 Dokumentasi ini dilisensikan di bawah [MIT License](LICENSE).
