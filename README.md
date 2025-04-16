@@ -8,7 +8,7 @@ Selamat datang di repositori resmi dokumentasi karya dan aktivitas Habib Muzakki
 
 - **Nama**: Habib Muzakki Piliang
 - **Asal**: Minangkabau, Sumatera Barat
-- **Domisili**: Serang, Banten
+- **Tempat Tinggal**: Kota Serang, Provinsi Banten
 - **Sekolah**: MAN 2 Kota Serang
 - **Kelas**: 11 Agama (Angkatan ke-34, Alvradesta)
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
