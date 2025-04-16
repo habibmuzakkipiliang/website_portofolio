@@ -57,6 +57,7 @@ Habib juga menulis artikel edukatif dan sejarah, seperti:
 - **Sejarah Makam Jerman di Megamendung Bogor**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
 - **Sejarah Mausoleum Van Motman di Bogor**: Menjelaskan sejarah awal mula pemakaman ini dan kaitannya dengan anggota keluarga Van Motman. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-dan-kompleksitas-mausoleum-van.html))
 - **Sejarah Hagia Sophia dan perkembangannya**: Menjelaskan sejarah perkembangan dan perubahan dari Hagia Sophia dari Gereja hingga Masjid seperti saat ini. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/rekonstruksi-dan-sejarah-hagia-sophia.html))
+- **Sejarah Kerajaan Pagaruyung**: Menjelaskan sejarah Kerajaan Pagaruyung di Sumatra Barat dari Agama Buddha ke Islam hingga Akhir dari Kerajaan tersebut. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/sejarah-kerajaan-pagaruyung.html))
 - **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com - Huruf Yunani](https://habibmuzakkipiliang.blogspot.com/2024/10/fakta-dan-sejarah-lengkap-huruf-yunani.html?m=1))<br>
 ([habibmuzakkipiliang.blogspot.com - Huruf Kiril Rusia](https://habibmuzakkipiliang.blogspot.com/2024/10/10-fakta-huruf-kiril-aksara-yang-unik.html?m=1
 ))
