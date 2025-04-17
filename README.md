@@ -40,11 +40,11 @@ Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan 
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-rabu-8-februari-2023.html))
 - **LKS 2023**: Menceritakan pengalaman dia selama mengikuti LKS di MAN 2 KOTA SERANG. 
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-jumat-8-september-2023.html))
-- **Pelepasan Kelas 12 (Avgrasena 2024)**: Menceritakan proses gladi resik dan penampilan paduan suara di Auditorium UNSERA. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/cerita-pengalaman-saya-selama-gladi-dan.html))
+- **Pelepasan Kelas 12 (Angkatan ke-32 Avgrasena 2024)**: Menceritakan proses gladi resik dan penampilan paduan suara di Auditorium UNSERA (Universitas Serang Raya). ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/cerita-pengalaman-saya-selama-gladi-dan.html))
 - **MASTASA 2024**: Berperan sebagai panitia dokumentasi dalam kegiatan Masa Ta'aruf Santri di MAN 2 KOTA SERANG. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-menjadi.html))
 - **MATSAMA 2023**: Mengikuti kegiatan orientasi siswa baru dengan berbagai aktivitas pengenalan sekolah MAN 2 KOTA SERANG. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/07/cerita-pengalaman-saya-selama-matsama.html))
-- **ABG Folksong 2024**: Terlibat dalam latihan dan penampilan musik dalam acara Arena Boarding Gembira di MAN 2 KOTA SERANg. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-selama-gladi-bersih.html))
-- **Awal Ramadhan 2024**: Menyampaikan pengalaman pribadi dalam menyambut bulan suci Ramadhan di asrama MAN 2 KOTA. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-senin-18-maret-2024.html))
+- **ABG Folksong 2024**: Terlibat dalam latihan dan penampilan musik dalam acara Arena Boarding Gembira di MAN 2 KOTA SERANG. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-selama-gladi-bersih.html))
+- **Awal Ramadhan 2024**: Menyampaikan pengalaman pribadi dalam menyambut bulan suci Ramadhan di asrama MAN 2 KOTA SERANg. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-senin-18-maret-2024.html))
 
 ---
 
