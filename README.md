@@ -11,6 +11,7 @@ Selamat datang di repositori resmi dokumentasi karya dan aktivitas Habib Muzakki
 - **Tempat Tinggal**: Kota Serang, Provinsi Banten
 - **Sekolah**: MAN 2 Kota Serang
 - **Kelas**: 11 Agama (Angkatan ke-34, Alvradesta)
+- **Kepanitaan**: Media and Fashion (Dokumentasi), Acara ABG (Arena Boarding Gembira) MAN 2 Kota Serang, tahun 2025
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
 - **Kompasiana**: 
 https://www.kompasiana.com/habibmuzakki3305
@@ -45,7 +46,23 @@ Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan 
 - **ABG Folksong 2024**: Terlibat dalam latihan dan penampilan musik dalam acara Arena Boarding Gembira di MAN 2 KOTA SERANg. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-selama-gladi-bersih.html))
 - **Awal Ramadhan 2024**: Menyampaikan pengalaman pribadi dalam menyambut bulan suci Ramadhan di asrama MAN 2 KOTA. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/pada-senin-18-maret-2024.html))
 
-### **🧠 Edukasi & Sejarah**
+---
+
+### **🖥️ Teknologi dan Ponsel**
+
+Habib juga menulis artikel Teknologi dan Ponsel, seperti:
+
+- **Code Editor dan IDE (Integrated Development Environment) dalam Mapel Coding**: Menjelaskan Code Editor dan IDE dan Software umum digunakan secara rinci. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/02/apa-itu-code-editor-dan-ide-integrated.html))
+- **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/03/cyber-security-pengertian-tujuan.html?m=1))
+- **Daftar Versi Android dari awal hingga sekarang**: Menjelaskan fitur dan versi awal hingga sekarang secara rinci. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/fitur-utama-dan-daftar-versi-android.html))
+- **Daftar Versi IOS dari awal hingga sekarang**: Menjelaskan fitur lengkap dan versi awal hingga sekarang secara rinci. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/fitur-utama-dan-daftar-versi-ios-dari.html))
+- **Daftar lengkap software membuat Aplikasi Mobile dan bahasa pemrograman yang umum digunakan** : Menjelaskan Software membuat Aplikasi Mobile dan Bahasa Pemrograman yang umum digunakan. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/01/daftar-lengkap-software-membuat.html))
+- **Daftar Versi MS Office dari awal hingga sekarang**: Menjelaskan Versi MS Office dari awal hingga sekarang secara rinci dan lengkap. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/fitur-utama-dan-daftar-versi-ms-office.html))
+- **Daftar Versi Windows dari awal hingga sekarang**: Menjelaskan Versi Windows dari awal hingga sekarang secara rinci dan lengkap. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/fitur-utama-dan-daftar-versi-windows.html))
+
+---
+
+### **🧠 Edukatif dan Sejarah**
 
 Habib juga menulis artikel edukatif dan sejarah, seperti:
 
@@ -53,9 +70,9 @@ Habib juga menulis artikel edukatif dan sejarah, seperti:
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-abg-arena-boarding.html))
 - **Acara MAN2Fest**: Menjelaskan Acara tahunan yang diadakan oleh MAN 2 Kota Serang untuk memperingati ulang tahun sekolah tersebut. 
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
-- **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/03/cyber-security-pengertian-tujuan.html?m=1))
 - **Sejarah Makam Jerman di Megamendung Bogor**: Mengulas latar belakang sejarah makam yang berkaitan dengan Perang Dunia II. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-makam-jerman-di-megamendung.html))
 - **Sejarah Mausoleum Van Motman di Bogor**: Menjelaskan sejarah awal mula pemakaman ini dan kaitannya dengan anggota keluarga Van Motman. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/06/sejarah-dan-kompleksitas-mausoleum-van.html))
+- **Makam Inggris Jitra Bengkulu**: Menjelaskan sejarah awal mula pemakaman ini dan kaitannya dengan Kolonial Inggris di Bengkulu. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/makam-inggris-jitra-bengkulu.html))
 - **Sejarah Hagia Sophia dan perkembangannya**: Menjelaskan sejarah perkembangan dan perubahan dari Hagia Sophia dari Gereja hingga Masjid seperti saat ini. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/rekonstruksi-dan-sejarah-hagia-sophia.html))
 - **Sejarah Kerajaan Pagaruyung**: Menjelaskan sejarah Kerajaan Pagaruyung di Sumatra Barat dari Agama Buddha ke Islam hingga Akhir dari Kerajaan tersebut. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/sejarah-kerajaan-pagaruyung.html))
 - **Huruf Yunani & Kiril**: Menyediakan informasi tentang alfabet Yunani dan Kiril, termasuk nama dan bentuk huruf. ([habibmuzakkipiliang.blogspot.com - Huruf Yunani](https://habibmuzakkipiliang.blogspot.com/2024/10/fakta-dan-sejarah-lengkap-huruf-yunani.html?m=1))<br>
