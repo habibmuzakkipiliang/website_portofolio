@@ -1,6 +1,6 @@
 # **📘 Habib Muzakki Piliang – Dokumentasi Karya Digital dan Aktivitas**
 
-Selamat datang di repositori resmi dokumentasi karya dan aktivitas Habib Muzakki Piliang, seorang pelajar aktif dan kreatif dari MAN 2 Kota Serang. Repositori ini bertujuan untuk mengarsipkan pengalaman, kontribusi, dan karya tulis Habib dalam berbagai kegiatan sekolah, organisasi, dan penulisan blog.
+Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib Muzakki Piliang, seorang pelajar aktif dan kreatif dari MAN 2 Kota Serang. Repositori ini bertujuan untuk mengarsipkan pengalaman, kontribusi, dan Karya Tulis Digital Habib dalam berbagai kegiatan sekolah, organisasi, dan penulisan blog.
 
 ---
 
