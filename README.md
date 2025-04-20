@@ -33,7 +33,7 @@ https://www.kompasiana.com/habibmuzakki3305
 
 Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan sekolah, termasuk:
 
-- **MAN2Fest 2024**: Mengulas suasana meriah acara besar tahunan yang menampilkan konser musik, tari daerah, flashmob, dan teater di MAN 2 KOTA SERANG. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/10/apa-itu-acara-man2fest-di-man-2-kota.html))
+- **MAN2Fest 2024**: Mengulas suasana meriah acara besar tahunan yang menampilkan konser musik, tari daerah, flashmob, dan teater di MAN 2 KOTA SERANG. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-saya-selama-man2fest.html))
 - **Arena Boarding Gembira (ABG) 2024**: Menceritakan berlangsungnya Acara Besar Pagelaran Seni tahunan yang meriah hingga larut malam di MAN 2 KOTA SERANg.
 ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/05/cerita-pengalaman-saya-selama-acara.html?m=1))
 - **Study Tour Kelas 9 SMP**: Menceritakan serunya perjalanan selama Study Tour ke Malang-Bromo-Jogja selama kelas 9 SMPIT AL-IZZAH SERANG. 
