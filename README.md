@@ -52,6 +52,7 @@ Habib secara konsisten membagikan pengalaman pribadinya dalam berbagai kegiatan 
 
 Habib juga menulis artikel Teknologi dan Ponsel, seperti:
 
+- **Crypto dan Blockchain: Panduan Lengkap untuk Gen Z & Gen Alpha di Indonesia**: Menjelaskan tentang panduan lengkap pakai Crypto untuk Gen Z dan Gen Alpha secara rinci. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/04/crypto-dan-blockchain-panduan-lengkap.html))
 - **Code Editor dan IDE (Integrated Development Environment) dalam Mapel Coding**: Menjelaskan Code Editor dan IDE dan Software umum digunakan secara rinci. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/02/apa-itu-code-editor-dan-ide-integrated.html))
 - **Cyber Security**: Menjelaskan pengertian, tujuan, ancaman, dan cara mengantisipasi serangan siber. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2025/03/cyber-security-pengertian-tujuan.html?m=1))
 - **Daftar Versi Android dari awal hingga sekarang**: Menjelaskan fitur dan versi awal hingga sekarang secara rinci. ([habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/2024/12/fitur-utama-dan-daftar-versi-android.html))
