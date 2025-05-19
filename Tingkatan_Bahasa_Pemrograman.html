@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tingkatan Bahasa Pemrograman</title>
+</head>
+<style>
+    .body {
+        background-color: chartreuse;
+        color: black;
+        font-family: sans-serif;
+        font-size: medium;
+    }
+
+    h1,footer {
+        background-color: aqua;
+        color: black;
+        font-family: sans-serif;
+        font-size: medium;
+    }
+
+    ul {
+        list-style-type: square;
+    }
+
+    button {
+        font-size: large;
+        font-family: cursive;
+        padding: 20px 50px;
+    }
+</style>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<body class="body">
+    <h1 align="center">Tingkatan Bahasa Pemrograman</h1>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-20" style="background-color: white;">
+                <p>
+                    Bahasa pemrograman dikategorikan berdasarkan tingkat abstraksinya terhadap bahasa mesin komputer. Berikut adalah penjelasannya:
+                </p>
+
+                <ol>
+                    <li><b>Bahasa Pemrograman Tingkat Rendah</b></li>
+                    <p>
+                        Bahasa pemrograman ini lebih dekat dengan bahasa mesin (biner) sehingga sulit dipahami manusia. Namun, bahasa ini memiliki kecepatan eksekusi yang sangat tinggi karena langsung berinteraksi dengan perangkat keras tanpa perlu banyak proses tambahan.
+                    </p>
+
+                    <p><b>Contoh :</b></p>
+                    <ul>
+                        <li><b>Assembly</b> : Bahasa yang menggunakan mnemonik sebagai representasi instruksi mesin.</li>
+                        <li><b>Machine Language (Bahasa Mesin)</b> : Kode Angka biner langsung yang dieksekusi oleh CPU.</li>
+                    </ul>
+                    <br>
+
+
+                    <li><b>Bahasa Pemrograman Tingkat Menengah</b></li>
+                    <p>
+                        Bahasa pemrograman tingkat menengah memiliki karakteristik gabungan antara bahasa Tingkat Rendah (dekat dengan Bahasa Mesin) dan bahasa Tingkat Tinggi (mudah dipahami oleh manusia).
+                    </p>
+
+                    <p><b>Contoh:</b></p>
+                    <ul>
+                        <li><b>C</b> : Digunakan untuk pengembangan sistem operasi, perangkat lunak sistem, dan aplikasi dengan kinerja tinggi.</b></li>
+                        <li><b>C++</b> : Digunakan dalam pengembangan game (Unreal Engine), software desktop, sistem embedded, dan aplikasi yang membutuhkan kinerja tinggi.</li>
+                        <li><b>Pascal</b> : Awalnya digunakan untuk pendidikan dasar pemrograman, tetapi juga dapat digunakan dalam pengembangan aplikasi desktop dan sistem kendali.</li>
+                        <li><b>Rust</b> : Digunakan dalam pengembangan sistem yang membutuhkan keamanan memori dan kinerja tinggi, seperti sistem operasi dan browser.</li>
+                        <li><b>Ada</b> : Banyak digunakan dalam sistem militer, penerbangan, dan aplikasi dengan kebutuhan keandalan tinggi.</li>
+                    </ul>
+                    <br>
+
+                    <li><b>Bahasa Pemrograman Tingkat Tinggi</b></li>
+                    <p>
+                        Bahasa yang lebih dekat dengan bahasa manusia dan mudah dipahami, tetapi perlu diterjemahkan ke dalam bahasa mesin sebelum dieksekusi. Bahasa ini lebih fleksibel dan digunakan dalam berbagai bidang pengembangan perangkat lunak.
+                    </p>
+                    <p><b>Contoh :</b></p>
+
+                    <ul>
+                        <li><b>Python 🐍</b> : Bahasa yang sederhana dan banyak digunakan di berbagai bidang seperti <b>AI (Artificial Intelligence), Machine Learning, Otomatisasi, Data Science, Big Data, Internet of Things, dan Pengembangan Website.</b></li>
+                        <li><b>JavaScript 🌍</b> : Digunakan dalam pengembangan website interaktif dengan didukung <b>HTML dan CSS</b>.</li>
+                        <li><b>Java ☕</b> : Banyak digunakan untuk <b>aplikasi Desktop, Android, dan Enterprise</b>.</li>
+                        <li><b>C# 🎮</b> : Dikembangkan oleh Microsoft, <b>banyak digunakan di game development (Unity) dan aplikasi Windows</b>.</li>
+                        <li><b>Ruby 💎</b> : Digunakan dalam pengembangan website, khususnya dengan Ruby on Rails.</li>
+                        <li><b>Swift 🍏</b> : Bahasa yang digunakan untuk pengembangan <b>aplikasi iOS</b>.</li>
+                        <li><b>Kotlin  📱 </b> : Bahasa utama dalam pengembangan <b>aplikasi Android modern</b>.</li>
+                    </ul>
+                    <br>
+
+                    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.17.2/dist/sweetalert2.all.min.js"></script>
+
+                    <script>
+                        function tingkatSatu() {
+                            swal.fire({
+                                icon: "success",
+                                iconColor: "#50C878",
+                                title: "Berhasil",
+                                text: "Anda telah berhasil menjalankan Pesan JavaScript",
+                                confirmButtonText: "Terima Kasih",
+                                confirmButtonColor: "blue",
+                                background: "yellow",
+                                color: "black",
+                            });
+                        }
+                    </script>
+
+                    <button class="btn btn-primary" onclick="tingkatSatu()">KLIK SAJA DENGAN LENGKAP DAN DETAIL SAJA</button>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</html>
