@@ -13,8 +13,8 @@ Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib
 - **Kelas**: 11 Agama (Angkatan ke-34, Alvradesta)
 - **Kepanitaan**: Media and Fashion (Dokumentasi), Acara ABG (Arena Boarding Gembira) MAN 2 Kota Serang, tahun 2025
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
-- **Kompasiana**: 
-https://www.kompasiana.com/habibmuzakki3305
+- **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
+
 
 ---
 
