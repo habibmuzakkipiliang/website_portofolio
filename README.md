@@ -14,6 +14,8 @@ Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib
 - **Kepanitaan**: Media and Fashion (Dokumentasi), Acara ABG (Arena Boarding Gembira) MAN 2 Kota Serang, tahun 2025
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
 - **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
+- **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
+- **Karya Novel di Wattpad**: [Ghost Love in The Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
 
 
 ---
