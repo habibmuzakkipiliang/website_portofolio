@@ -24,6 +24,7 @@ Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib
 
 - **Linktree**: [linktr.ee/habib_muzakki_piliang](https://linktr.ee/habib_muzakki_piliang)
 - **Instagram**: [@habib_muzakki_piliang](https://www.instagram.com/habib_muzakki_piliang)
+- **LinkedIn** : [habib muzakki piliang](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **TikTok**: [@habib_muzakki_piliang22](https://www.tiktok.com/@habib_muzakki_piliang22)
 - **Threads**: [@habib_muzakki_piliang](https://www.threads.net/@habib_muzakki_piliang)
 
