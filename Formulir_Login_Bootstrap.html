@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Login dengan Bootstrap</title>
+</head>
+<style>
+    .body {
+        background-color: chartreuse;
+        font-family: Arial, sans-serif;
+    }
+
+    .header {
+        background-color: aqua;
+        color: black;
+    }
+
+    .login-card {
+         width: 100%;
+         max-width: 400px;
+         padding: 2rem;
+         border-radius: 10px;
+         box-shadow: 0 0 10px rgba(0,0,0,0.1);
+         background-color: white;
+    }
+</style>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+<body class="body">
+    <header class="header">
+        <h1 align="center">Web login dengan Bootstrap</h1>
+    </header>
+
+    <div class="container login-card">
+        <div class="row">
+            <div class="col-sm-12" style="background-color: white;color: black;">
+                <form action="" method="post">
+                    <div class="g-3 mb-3">
+                        <label for="firstName" class="form-label">Nama lengkap :</label>
+                        <input type="text" name="firstName" class="form-control" placeholder="masukkan nama lengkap">
+                    </div>
+                    <div class="mb-3">
+                        <label for="emailContoh" class="form-label">Email : </label>
+                        <input type="email" name="email" value="" class="form-control" placeholder="masukkan email">
+                    </div>
+                    <div class="mb-3">
+                        <label for="passwordContoh" class="form-label">Password :</label>
+                        <input type="password" name="password" class="form-control" placeholder="masukkan password">
+                    </div>
+                    <div class="mb-3">
+                        <input type="checkbox" name="periksa" id="45" class="form-check-input">
+                    </div>
+
+                    <div class="mb-3">
+                        <button type="submit" class="btn btn-primary form-control w-100">SUBMIT NOW</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+</html>
