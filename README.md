@@ -1,6 +1,6 @@
 # **📘 Habib Muzakki Piliang – Dokumentasi Karya Digital dan Aktivitas**
 
-Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib Muzakki Piliang, seorang pelajar aktif dan kreatif dari MAN 2 Kota Serang. Repositori ini bertujuan untuk mengarsipkan pengalaman, kontribusi, dan Karya Tulis Digital Habib dalam berbagai kegiatan sekolah, organisasi, dan penulisan blog.
+Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib Muzakki Piliang, seorang pelajar aktif dan kreatif dari Alumni MAN 2 Kota Serang. Repositori ini bertujuan untuk mengarsipkan pengalaman, kontribusi, dan Karya Tulis Digital Habib dalam berbagai kegiatan sekolah, organisasi, dan penulisan blog.
 
 ---
 
@@ -9,8 +9,8 @@ Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib
 - **Nama**: Habib Muzakki Piliang
 - **Asal**: Minangkabau, Sumatera Barat
 - **Tempat Tinggal**: Kota Serang, Provinsi Banten
-- **Sekolah**: MAN 2 Kota Serang
-- **Kelas**: 12 Agama (Angkatan ke-34, ASCENDRIA)
+- **Sekolah**: Alumni MAN 2 Kota Serang
+- **Kelas**: Alumni 12 Agama (Angkatan ke-34, ASCENDRIA)
 - **Kepanitaan**: Media and Fashion (Dokumentasi), Acara ABG (Arena Boarding Gembira) MAN 2 Kota Serang, tahun 2025
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
 - **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
