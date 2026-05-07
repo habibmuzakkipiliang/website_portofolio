@@ -9,8 +9,8 @@ Selamat datang di repositori resmi Dokumentasi Karya Digital dan aktivitas Habib
 - **Nama**: Habib Muzakki Piliang
 - **Asal**: Minangkabau, Sumatera Barat
 - **Tempat Tinggal**: Kota Serang, Provinsi Banten
-- **Sekolah**: Alumni MAN 2 Kota Serang
-- **Kelas**: Alumni 12 Agama (Angkatan ke-34, ASCENDRIA)
+- **Sekolah**: Alumni MAN 2 Kota Serang (Lulus 2026)
+- **Kelas**: Alumni Kelas 12 Agama (Angkatan ke-34, ASCENDRIA)
 - **Kepanitaan**: Media and Fashion (Dokumentasi), Acara ABG (Arena Boarding Gembira) MAN 2 Kota Serang, tahun 2025
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
 - **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
